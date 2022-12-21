@@ -1,4 +1,4 @@
-# frank-1150.github.io
+# Tesla website clone
 try to clone Tesla.com using HTML, JS and CSS
 
 This website is built according to this tutorial: https://youtu.be/afaqr875gUE
